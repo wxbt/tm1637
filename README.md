@@ -41,7 +41,6 @@ set display intensity.
 
 ## 演示
 
-![image](https://github.com/zhuning239/TM1637/blob/master/demo.jpg)
 
 ## 授权方式  
 
